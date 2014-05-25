@@ -1,7 +1,7 @@
 scaling_dock_menu
 =================
 
-Flash/AS3 dock menu with scaling effect and draggable items (from scratch).
+Flash/AS3 dock menu with scaling effect and positionable items (from scratch).
 
 I did this for a project where people would drag furniture to a virtual room image. The project was never done but I learned to do fancy dock menu :)
 
